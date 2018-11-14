@@ -1,0 +1,3 @@
+﻿  house.cpp
+d:\education\pp\house\house\house\house.cpp(47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  house.vcxproj -> D:\Education\pp\house\house\Debug\house.exe
